@@ -5,8 +5,6 @@ image:"https://drive.google.com/uc?id=1OHvoOG6VDVgwRqrsbWYUByVuF3Gy3AOt",
 url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies",
 #"stations": [
 
-
-
 "groups": [
 
 ########################################################
@@ -21,6 +19,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Notting-Hill-1999-รักบานฉ่ำ-ที่น๊อตติ้งฮิลล์-300x450.png",
      "url": "https://main.24playerhd.com/newplaylist/da67ab21a95596b7167e6c78/da67ab21a95596b7167e6c78.m3u8",
      "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Titanic (1997) ไททานิค",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Titanic-1997-ไททานิค-300x450.jpg",
+     "url": "https://hot.24playerhd.com/ioshls/ed18e6e8f879cf08aefa0e7cbd40d914/ed18e6e8f879cf08aefa0e7cbd40d914.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "ฉลาดเกมส์โกง  Bad Genius (2017)",
+     "info": "หนังไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/BRIhWnMxRvsN7FxjKHx.jpg",
+     "url": "https://hlsp2p.xyz/view/60ceeebf-eee3-5ac1-a37f-3cb9ebb47faa.m3u8",
+     "referer": "https://www.037hdmovie.com/"
     },
     {
      "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
@@ -261,17 +273,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "referer": "https://www.24-hd.com/"
     }
    ]
-  },
-
-##############################14/09/67##########################
-
-
-#############################11/09/67############################
-{
-   "name": "Thelma the Unicorn ยูนิคอร์นน้อยเทลม่า (2024)",
-   "info": "เสียงไทย 2024",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-ยูนิคอร์นน้อยเทลม่า-2024.jpg",
-   "stations": []
   },
   {
    "name": "Am I OK? ถามใจว่าใช่ปะ? (2024)",
