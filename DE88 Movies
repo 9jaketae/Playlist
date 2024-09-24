@@ -1,0 +1,153 @@
+	{
+		"name": "DE88",
+		"author": "เจียว เจียว",
+		"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+		"url": "",
+		"groups":  [
+
+		{
+			"name": "Home",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังใหม่ล่าสุด",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_new-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังดีที่ควรดู",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_best-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "เน็ตฟิก Netflix",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_netflix.w3u",
+				"import": "false"
+		},
+			{
+			"name": "ดูหนังไทย",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_thai-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "ดูหนังเอเชีย",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_asia-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "ดูหนังฝรั่ง",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_international-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังผจญภัย Adventure",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_adventure-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังแอคชั่น หนังบู๊ Action",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_action-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังแนวเทพนิยาย Fantasy",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_fantasy-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังอาชญากรรม Crime",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_crime-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังดราม่า Drama",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_drama-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังครอบครัว Family",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_family-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังตลก Comedy",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_comedy-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังผี สยองขวัญ Horror & Ghost",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_horror-ghost-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังระทึกขวัญ Thriller",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_thriller-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังแนวลึกลับซับซ้อน Mystery",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_mystery-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังแข่งรถ สายซิ่ง Racing",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_racing-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังแนววิทยาศาสตร์ Sci-Fi",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_sci-fi-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังสงคราม War",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_war-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังซอมบี้ Zombie",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_zombie-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "อนิเมชั่น หนังการ์ตูน Animation",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_animation.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังชีวประวัติ เรื่องจริง",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_biographical-movie.w3u",
+				"import": "false"
+		},
+		{
+			"name": "หนังอาร์ท",
+			"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/de88_art-movie.w3u",
+				"import": "false"
+		},
+	  ]
+	}
