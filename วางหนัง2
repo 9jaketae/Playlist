@@ -120,6 +120,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
+   "info": "เสียงไทย 2024",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Little-Mermaid-2023--เงือกน้อยผจญภัย.jpg-348x522.webp",
+   "stations": [
+    {
+     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Little-Mermaid-2023--เงือกน้อยผจญภัย.jpg-348x522.webp",
+     "url": "https://stream3.movie2free.tv/cdn/master/40f4c14d83a59ae1ff03026981f2a730/master.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
   {
    "name": "Technoboys เทคโนบอยส์ (2024)",
    "info": "Sound Track 2024",
