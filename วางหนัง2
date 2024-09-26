@@ -148,6 +148,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "Collectors (2020) รวมกันเราฉก",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
+   "stations": [
+    {
+     "name": "Collectors (2020) รวมกันเราฉก",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/9f1a5be5663903bccde0c511/9f1a5be5663903bccde0c511.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
   {
    "name": "Boxer นักชกสังเวียนดิบ (2024)",
    "info": "เสียงไทย 2024",
