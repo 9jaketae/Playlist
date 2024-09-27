@@ -1024,16 +1024,22 @@
             "author": "24-09-2024",
             "stations": [
                 {
-                    "name": "The Judge from Hell (2024) Season 1 ตอนที่ 1",
+                    "name": "ตอนที่ 1 The Judge from Hell (2024)",
                     "image": "https://tvallseries.co/wp-content/uploads/2024/09/The-Judge-from-Hell-2024-220x170.webp",
                     "url": "https://playcdn.tvallseries.com/27a16fcc-defc-43ab-8c4d-38663beaafe8/_",
                     "referer": "https://playcdn.tvallseries.com/"
                 },
                 {
-                    "name": "The Judge from Hell (2024) Season 1 ตอนที่ 2",
+                    "name": "ตอนที่ 2 The Judge from Hell (2024)",
                     "image": "https://tvallseries.co/wp-content/uploads/2024/09/The-Judge-from-Hell-2024-220x170.webp",
                     "url": "https://playcdn.tvallseries.com/ba8299dc-6fef-44b3-a742-4d076d870c38/_",
                     "referer": "https://playcdn.tvallseries.com/"
+                },
+                {
+                    "name": " ตอนที่ 3 The Judge from Hell (2024)",
+                    "image": "https://tvallseries.co/wp-content/uploads/2024/09/The-Judge-from-Hell-2024-220x170.webp",
+                    "url": "https://main.24playerhd.com/m3u8/b0da733840dbfea13a520c09/b0da733840dbfea13a520c09438.m3u8",
+                    "referer": "https://www.serie-day.com/"
                 },
             ]
         },
