@@ -50,6 +50,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
+   "info": "หนังไทย",
+   "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
+   "stations": [
+    {
+     "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
+     "info": "เสียงไทย",
+     "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
+     "url": "https://live.lnwplayer.com/hls/ac2fd2cd-28dc-4466-9cb7-a1dc8388975a/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
 {
    "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
    "info": "เสียงไทย 2024",
