@@ -51,6 +51,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "The Godfather เดอะ ก็อดฟาเธอร์",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
+   "stations": [
+    {
+     "name": "The Godfather (1972) เดอะ ก็อดฟาเธอร์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/469dfceb684ab1142faf71de8bde0761/469dfceb684ab1142faf71de8bde0761.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Godfather 2 (1974) เดอะ ก็อดฟาเธอร์ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-2-1974-เดอะ-ก็อดฟาเธอร์-2-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/2775b30b8a58ae56c4383bba453b81ad/2775b30b8a58ae56c4383bba453b81ad.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Godfather 3 (1990) เดอะ ก็อดฟาเธอร์ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-3-1990-เดอะ-ก็อดฟาเธอร์-3-300x450.png",
+     "url": "https://main.24playerhd.com/m3u8/425e35c00399e4e189589260/425e35c00399e4e189589260168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
    "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
    "info": "หนังไทย",
    "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
