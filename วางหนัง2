@@ -79,6 +79,132 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "Chef Movies Collection",
+   "info": "HD",
+   "image": "https://i.pinimg.com/564x/a6/f2/0f/a6f20f0d2bd792485d8bbc3d796b0590.jpg",
+   "stations": [
+{
+"name":"Le Grand Chef 2: Kimchi Battle (Sik-gaek: Kim-chi-jeon-jaeng) บิ๊กกุ๊กศึกโลกันตร์ 2 ประลองกิมจิ (2010)",
+"info": "HD th 6.1",
+"image":"https://img.inwiptv.net/postor/20180607074250le-grand-chef-2-kimchi-battle.42247.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2-Kimchi-Battle-2010/Le-Grand-Chef-2-Kimchi-Battle-2010-TH-720p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"Le Grand Chef (Sik-gaek) บิ๊กกุ๊กศึกโลกันตร์ (2007)",
+"info": "HD th 6.6",
+"image":"https://img.inwiptv.net/postor/20180607065001fullsizephoto799387.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2007/Le-Grand-Chef-2007-TH-480p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"Kung-fu Chefs (Gong fu chu shen) กุ๊กเทวดา กังฟูใหญ่ฟัดใหญ่ (2009)",
+"info": "HD th 5.2",
+"image":"https://img.inwiptv.net/postor/20181020080414photo.jpeg",
+"url":"https://m1free.inwstream.com:1936/movie3/Kung-Fu-Chefs-2009/Kung-Fu-Chefs-2009-TH-480p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"The Chef เดอะ เชฟ ศึกกระทะเหล็ก (2012)",
+"info": "HD th 6.7",
+"image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B9%80%E0%B8%8A%E0%B8%9F%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%20(2012).jpg",
+"url":"https://m1free.inwstream.com:1936/movie2/the_chef_2012/the_chef_2012_th_480p_fw.m4v/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"Chef 2014",
+"info": "HD th 7.3",
+"image":"https://img.inwiptv.net/postor/20200407152743Chef%202014.jpg",
+"url":"https://m1free.inwstream.com:1936/movie2/chef_2014/chef_2014_th_1080p_fw.m4v/chunk.m3u8",
+"referer": "https://fw4free.com/"
+    }
+   ]
+  },
+{
+   "name": "Marilyn Monroe",
+   "info": "รวมหนังมาริลิน มอนโร",
+   "image": "https://img2.imgbiz.com/imgbiz/Marilyn-Monroe.jpg",
+   "stations": [
+
+{
+"name":"The Seven Year Itch (1955)",
+"image":"https://www.123-hd.com/wp-content/uploads/2023/05/The-Seven-Year-Itch-1955-300x450.jpg",
+"url":"https://main.24playerhd.com/m3u8/97d9e004d334a14b375b1b0b/97d9e004d334a14b375b1b0b168.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"How to Marry a Millionaire (1953) เคล็ดลับจับเศรษฐี",
+"image":"https://www.123-hd.com/wp-content/uploads/2022/04/How-to-Marry-a-Millionaire-1953-เคล็ดลับจับเศรษฐี-300x450.png",
+"url":"https://hot.24playerhd.com/ioshls/0f0b90478535e5c3fb63be6beed41a75/0f0b90478535e5c3fb63be6beed41a75.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"River Of No Return (1954) สายน้ำไม่ไหลกลับ",
+"image":"https://www.kubhd.com/wp-content/uploads/2024/01/River-Of-No-Return-1954-e1704250164490.webp",
+"url":"https://hplay.hdplayfull.xyz/1839fd59-a2e7-4393-8548-8289b5f37f65/_",
+"referer": "https://www.kubhd.com/"
+}
+{
+"name":"The Prince and the Showgirl (1957)",
+"image":"https://doomovie.online/wp-content/uploads/2021/09/The-Prince-and-the-Showgirl-1957.jpg",
+"url":"https://ezycdn.com/playlist-porrgm7s-SD.m3u8",
+"referer": "https://doomovie.online/"
+},
+{
+"name":"Gentlemen Prefer Blondes (1953) สองสาวยั่วสวาท",
+"image":"https://www.123-hd.com/wp-content/uploads/2022/04/Gentlemen-Prefer-Blondes-1953-สองสาวยั่วสวาท-300x450.png",
+"url":"https://hot.24playerhd.com/ioshls/fa2ea39492a30065311578144f35714c/fa2ea39492a30065311578144f35714c.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"Niagara (1953)",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2021/08/Niagara-1953.jpg.webp",
+"url":"https://playermhd.p2phls.xyz/0558d316-601d-40ad-9098-83cc11f970c9/_",
+"referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "Trouble ผิดที่ ผิดทาง (2024",
+   "info": "เสียงไทย 2024",
+   "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024-300x450.jpg",
+   "stations": [
+    {
+"name":"Trouble ผิดที่ ผิดทาง (2024)",
+"info": "HD th",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024-300x450.jpg",
+"url":"https://main.24playerhd.com/m3u8/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2168.m3u8",
+"referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
+   "info": "เสียงไทย",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
+   "stations": [
+    {
+"name":" Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
+"url":"https://hlsp2p.xyz/files/2e203c2d1f5397522e59732feb387293_1080p.txt",
+"referer": "https://www.037hdmovie.com/"
+    }
+   ]
+  },
+ {
+   "name": "เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors- Walled In (2024)",
+   "info": "เสียงไทย",
+   "image": "https://lk-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",
+   "stations": [
+{
+"name":"เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors- Walled In (2024)",
+"image":"https://lk-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",
+"url":"https://main.24playerhd.com/m3u8/d54efa3e822a088a2961d83c/d54efa3e822a088a2961d83c168.m3u8",
+"referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
    "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
    "info": "หนังไทย",
    "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
