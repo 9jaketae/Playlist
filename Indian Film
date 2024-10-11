@@ -197,6 +197,10 @@
         }
       ]
     },
+    {
+      "name": "Baaghi",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Baaghi-2016-บากิ-ยอดคนสุดกระห่ำ-300x450.jpg",
+      "stations": [
         {
           "name": "Baaghi ภาค 2",
           "info": "พากย์ไทย",
@@ -410,8 +414,6 @@
         }
       ]
     },
-
-
     {
       "name": "Love Tactics (2022) ยุทธวิธีกำราบรัก",
       "info": "HD SoundTrack(TH)",
@@ -423,7 +425,7 @@
           "info": "Soundtrack ซับ",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2022/02/9mXoEX9RNsRD1bG8nmJSfhwaM3O.jpg",
           "url": "https://streamhls.com/view/a1c20291-b701-558b-930b-35854049d60d.m3u8"
-        },
+        }
       ]
     },
     {
@@ -2955,7 +2957,7 @@
           "info": "Soundtrack ซับ",
           "image": "https://2.bp.blogspot.com/-YwpoxBr4_1o/WVOIQLSr-NI/AAAAAAAACdA/Sm2xPsajGwEj97XeSg9Zv8NcxoiGvdDxQCLcBGAs/s1600/d4750-salaam-bombay.jpg",
           "url": "https://streamhls.com/view/b30d261e-73ce-599f-bfd7-96f77f068f2f.m3u8"
-        },
+        }
       ]
     },
     {
@@ -2969,7 +2971,7 @@
           "info": "Soundtrack ซับ",
           "image": "https://2.bp.blogspot.com/-PfOF377ysc0/VfFIx4oDlbI/AAAAAAAAWFg/oP0GYDhJhp8/s320/3-Idiots.ZAKKY.jpg",
           "url": "https://streamhls.com/view/91267d43-b6be-5871-ac8f-c4d85cdb4fa1.m3u8"
-        },
+        }
       ]
     },
     {
@@ -2983,7 +2985,7 @@
           "info": "พากย์ไทย",
           "image": "https://1.bp.blogspot.com/-3EqY7Ar9IFc/VofYdSYZorI/AAAAAAAABrY/hgFwm9ZoAzE/s1600/NiaXEI5.jpg",
           "url": "https://streamhls.com/view/a710ceed-968a-5cd0-a9fb-21b1d2a5cf4f.m3u8"
-        },
+        }
       ]
     },
     {
