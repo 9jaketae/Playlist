@@ -1,9 +1,10 @@
 {
   "name": "หนังอินเดีย | Nung2HD",
-  "author": "Update 27/09/2023",
+  "author": "Update 27/11/2024",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "",
   "groups": [
+
  {
    "name": "Gangubai Kathiawadi หญิงแกร่งแห่งมุมไบ (2022)",
    "info": "เสียงไทย",
@@ -105,6 +106,20 @@
         }
       ]
     },
+  {
+   "name": "Babumoshai Bandookbaaz (2017) นักฆ่าสัญญาเลือดเย็น",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Babumoshai-Bandookbaaz.webp",
+   "stations": [
+    {
+     "name": "Babumoshai Bandookbaaz (2017) นักฆ่าสัญญาเลือดเย็น",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Babumoshai-Bandookbaaz.webp",
+     "url": "https://stream1.movie2free.tv/cdn/master/a64b1e6fe460fbacc86039ee14d257e3/master.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
     {
       "name": "Love Tactics 2 (2023) ยุทธวิธีกำราบรัก 2",
       "info": "HD Thai+SoundTrack(TH)",
