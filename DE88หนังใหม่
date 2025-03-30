@@ -6,6 +6,48 @@
  "groups": [
 
   {
+   "name": "The Life List (2025) รายการชีวิต",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-187x269.png",
+   "stations": [
+    {
+     "name": "The Life List (2025) รายการชีวิต",
+     "info": "พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-187x269.png",
+     "url": "https://main.24playerhd.com/newplaylist/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Working Man (2025) นรกหยุดนรก",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png",
+   "stations": [
+    {
+     "name": "A Working Man (2025) นรกหยุดนรก",
+     "info": "พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/6a5d0c08463fc19a57b2d28f/6a5d0c08463fc19a57b2d28f168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Carry-On (2024) สัมภาระอันตราย",
+   "info": "HD th IMDb 6.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Carry-On-2024-สัมภาระอันตราย-1-187x269.png",
+   "stations": [
+    {
+     "name": "Carry-On (2024) สัมภาระอันตราย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Carry-On-2024-สัมภาระอันตราย-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/8b75a1ce732a3e40675a0cba/8b75a1ce732a3e40675a0cba168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Novocaine มิสเตอร์โคตรคนทรหด (2025)",
    "info": "HD th IMDb 6.8",
    "image": "https://free928hd.com/wp-content/uploads/Novocaine-มิสเตอร์โคตรคนทรหด.jpg",
