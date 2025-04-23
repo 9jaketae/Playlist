@@ -1,10 +1,24 @@
 {
  "name": "ดูหนังออนไลน์ DE88 หนังใหม่ ดูหนังฟรี ภาพเสียงคมชัดระดับ FHD 4K ชมภาพยนต์ดังเต็มเรื่องไม่มีค่าใช้จ่าย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 25 Mar. 2025",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 25 Apr. 2025",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
  "groups": [
 
+  {
+   "name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+   "info": "HD th IMDb  5.6",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2025/04/iHostage-2025.jpg",
+   "stations": [
+    {
+     "name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2025/04/iHostage-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/619ff40ae054afc37c3377470880c87e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Delicious (2025) โอชะ",
    "info": "HD th IMDb 5.8",
