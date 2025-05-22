@@ -1,10 +1,24 @@
 {
  "name": "ดูหนังออนไลน์ DE88 หนังใหม่ ดูหนังฟรี ภาพเสียงคมชัดระดับ FHD 4K ชมภาพยนต์ดังเต็มเรื่องไม่มีค่าใช้จ่าย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 10 May 2025",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 22 May 2025",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
  "groups": [
 
+  {
+   "name": "Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2025/05/Shadow-Force-2025.jpg",
+   "stations": [
+    {
+     "name": "Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2025/05/Shadow-Force-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c90d3ce46f4f7a559a6c57b339216c88/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Nonnas (2025) รักนะย่ายายจ๋า พากย์ไทย",
    "info": "HD th IMDb 7.2",
