@@ -1,0 +1,183 @@
+  {
+   "name": "รวมหนังผีสยอง",
+   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
+   "stations": [
+
+    {
+     "name": "Evil Dead 2 (1987)ผีอมตะ ภาค 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
+     "url": "https://master.streamhls.com/hlsr2/a54d6b2c335c295ed4f4f6c554362e6e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Evil Dead (1981) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/10/The-Evil-Dead-1981.jpg",
+     "url": "https://master.streamhls.com/hlsr2/eac6ad358971b099ce38cb06fa3eca3e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Evil Dead (2013) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2014/09/evildead2013252554785569777.jpg",
+     "url": "https://master.streamhls.com/hlsr2/74667b82321751efff28bc0f26cd70aa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d82437afe4f8ffcd49966b4589dad6d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Wolf Man (2025) มนุษย์หมาป่า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/01/eZnRMvSPRRKSbCvHywYHaNktj8r.webp",
+     "url": "https://master.streamhls.com/hlsr2/9fd58e95970decaf1bae0f1050da6bf3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Fear Street Prom Queen (2025) ถนนอาถรรพ์ ราชินีงานพรอม",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/fGmmwQcQqWXtDldVfDOyZetcsFj.webp",
+     "url": "https://master.streamhls.com/hlsr2/3d91e59465a1f652e96ca82fb8187103/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/motj3SRUEs299VLwBObYvLMLaZU.webp",
+     "url": "https://master.streamhls.com/hlsr2/55137b42837bad6a0f96d365d9596272/master",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Monkey (2025) จ๋อจัดตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/wafNVxVpS2cAnzWwk1jn33yNfcV.webp",
+     "url": "https://master.streamhls.com/hlsr2/e8463d7e8a4ab902b56286dd247b34b8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Companion (2025) คอมแพเนียน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/4l5OQ3USPBfruFIaqjFvMPTk6lZ.webp",
+     "url": "https://nanaplayer.com/v1xeq045vfii",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Grafted (2024) ถลก…นังหน้าสวย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/tT1ZOqIgjCxV0f31znjM1Xwor72.webp",
+     "url": "https://master.streamhls.com/hlsr2/2db91b724452352282d70901bf7d6c24/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Cuckoo (2024)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/iCh0YvdHVh5PakiZhaUqiwsbQeC.webp",
+     "url": "https://master.streamhls.com/hlsr2/af64f5c39ff9c8ed3991a3450a219e74/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Speak No Evil (2024) เงียบ ซ่อน ตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/11/AuffqXjak6UBWEbfZZBwHouzEr4.webp",
+     "url": "https://master.streamhls.com/hlsr2/8f0155283d30044a503785bf84e60dce/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ธี่หยด 2 (2024) Death Whisperer 2",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/xPTyukOmTrJDwGPwHYwxEMieaqk.webp",
+     "url": "https://master.streamhls.com/hlsr2/4381bd32ce6efa5df7b5eca153fff001/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ธี่หยด (2023) Death Whisperer",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/04/wmenjROhs4AI4vDBmSVy3d1tLL7.webp",
+     "url": "https://master.streamhls.com/hlsr2/a8a9fa5e739019dbd4d9b9a77e4abbe5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/aCC7cXGC9X5yCDLbrQKgNhZrbPT.webp",
+     "url": "https://master.streamhls.com/hlsr2/d1d378b8e28d7d9845ced948e8f346c0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Headless (2023) คืนหลอนวิญญาณร้าย",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/12/Headless-2023.webp",
+     "url": "https://master.streamhls.com/hlsr2/43115df9f693f5677471a6dbf2e542d5/master",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Devil’s Bride (2025) ชู้จากนรก",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/rRkM4hAoT9wMPsYeHj2SdgJ3lmz.webp",
+     "url": "https://master.streamhls.com/hlsr2/d6b85aa9ff8d7e931ea4681c0cfbea78/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/1CevACy2U8dxgaPLBEeE15lPpw.webp",
+     "url": "https://master.streamhls.com/hlsr2/dbd55c48a7147439e950b95eaa3333c2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Night of Deception (2025) คืนลวง",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/sexwl8lMBQZMmDhRtmVyHQewvVm.webp",
+     "url": "https://master.streamhls.com/hlsr2/d3742990653842ae60c23dc4031d146c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Curse of the Seven Oceans (2024) ฅนปล่อยของ",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/hPdZpd2GVdMRqxDGocsNzUjwJ7V.webp",
+     "url": "https://master.streamhls.com/hlsr2/8dafa26991ef3a75a14ffd4eb9c6df46/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Lembayung (2024) โรงพยาบาท",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/lZAbC3Guak8ddT54RtGDvXja4xc.webp",
+     "url": "https://master.streamhls.com/hlsr2/77f919ab2600b202094611137df4be18/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Don’t Sleep (2024) มึงนอน มึงตาย",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/AvNag2SQeGo1vilbbwA7laSj3mo.webp",
+     "url": "https://master.streamhls.com/hlsr2/3a6201c423b02d0ef024c454ab4a9770/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Dominion of Darkness (2024) กัวซา ผีสาปนรกส่ง",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/sGwCzonl2BKJeuEAdFLm5tYcVE4.webp",
+     "url": "https://master.streamhls.com/hlsr2/3e8321731076e49150c0b74d8965b95a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Devils Stay (2024) ปีศาจปรสิต",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/jLqooWAXHRHt3RPue6N0aCStVGP.webp",
+     "url": "https://master.streamhls.com/hlsr2/914f28a7b65bb90f0689d6bc5ab5d63f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Sumala (2024) สุมาลา",
+     "info": "หนังมาเลย์ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/eARXyDzqqoZ6JBGKKt4Hwmz8DVw.webp",
+     "url": "https://master.streamhls.com/hlsr2/02e3a776da060b8dfeab1c343e4dbcf6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+
+    }
+   ]
+  },
