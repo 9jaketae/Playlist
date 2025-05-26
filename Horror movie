@@ -4,34 +4,6 @@
    "stations": [
 
     {
-     "name": "Evil Dead 2 (1987)ผีอมตะ ภาค 2",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
-     "url": "https://master.streamhls.com/hlsr2/a54d6b2c335c295ed4f4f6c554362e6e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Evil Dead (1981) ผีอมตะ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/10/The-Evil-Dead-1981.jpg",
-     "url": "https://master.streamhls.com/hlsr2/eac6ad358971b099ce38cb06fa3eca3e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Evil Dead (2013) ผีอมตะ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2-hd.com/wp-content/uploads/2014/09/evildead2013252554785569777.jpg",
-     "url": "https://master.streamhls.com/hlsr2/74667b82321751efff28bc0f26cd70aa/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2-hd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d82437afe4f8ffcd49966b4589dad6d8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
      "name": "Wolf Man (2025) มนุษย์หมาป่า",
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://www.movies-d.com/wp-content/uploads/2025/01/eZnRMvSPRRKSbCvHywYHaNktj8r.webp",
@@ -177,7 +149,146 @@
      "image": "https://www.movies-d.com/wp-content/uploads/2025/02/eARXyDzqqoZ6JBGKKt4Hwmz8DVw.webp",
      "url": "https://master.streamhls.com/hlsr2/02e3a776da060b8dfeab1c343e4dbcf6/master.m3u8",
      "referer": "https://master.streamhls.com/"
-
+    },
+    {
+     "name": "Evil Dead 2 (1987)ผีอมตะ ภาค 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
+     "url": "https://master.streamhls.com/hlsr2/a54d6b2c335c295ed4f4f6c554362e6e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Evil Dead (1981) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/10/The-Evil-Dead-1981.jpg",
+     "url": "https://master.streamhls.com/hlsr2/eac6ad358971b099ce38cb06fa3eca3e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Evil Dead (2013) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2014/09/evildead2013252554785569777.jpg",
+     "url": "https://master.streamhls.com/hlsr2/74667b82321751efff28bc0f26cd70aa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d82437afe4f8ffcd49966b4589dad6d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Heretic (2024) บ้านสั่งตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/01/7OUt2tckGxKwhq0u8zeEB1rKRwW.webp",
+     "url": "https://master.streamhls.com/hlsr2/d14e305d073330685f623967dbc27168/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Infested (2023) ฝูง 8 ขากับดักสยอง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/12/hNcxQNJzdzYFfgsBxxN6LoT1dy5.webp",
+     "url": "https://master.streamhls.com/hlsr2/f588fe7516cb16cd343ca468344c7b1e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "House of Sayuri (2024) บ้านผีอิหยังวะ",
+     "info": "หนังญี่ปุ่น พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/01/8zHv4wpUgIDbSYDcSsQ9FxAu0EU.webp",
+     "url": "https://master.streamhls.com/hlsr2/f4727eccac0bf0496ffc20ce99086ecc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "อวสานเนตรนารี (2023) Nednari",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/01/fyqy2QbLc3qG4h8WKX8EiwHfa14.webp",
+     "url": "https://master.streamhls.com/hlsr2/8d9893c4597c0ecef2e9ba7f609b2a86/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Minna no Uta (Sana) (2023) เทปผีดุ",
+     "info": "หนังญี่ปุ่น พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/01/pqMaqWIj1jzJMHH7TfyFEuzvrDu.webp",
+     "url": "https://master.streamhls.com/hlsr2/3e341c8aa20db9beb220da8f45da3ede/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ช.พ.๑ สมรภูมิคืนชีพ (2024) Operation Undead",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/12/ymJgjrRyqJsNK67dqLv4kwvPatV.webp",
+     "url": "https://master.streamhls.com/hlsr2/2bd4216725d0afbab859bc604ac1dbfa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Visit (2015) เดอะ วิสิท",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/12/mtMfKRCa2V5b7d9k4piogB72mcY.webp",
+     "url": "https://master.streamhls.com/hlsr2/0477af1312413f45a72707d935485755/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Smile 2 (2024) ยิ้มสยอง 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/rXc6o2ByBjdSlBMMHrQO6ggUCEj.webp",
+     "url": "https://master.streamhls.com/hlsr2/bc63544759dd5993820349f3061609d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "แดนสาป (2024) The Cursed Land",
+     "info": "หนังไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/11/b48mSL143bJw20Y44jNoaRDl8yb.webp",
+     "url": "https://master.streamhls.com/hlsr2/45b5c0c0956c1cabc9ef98909879eed1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Terrifier 3 (2024) เทอร์ริไฟเออร์ 3",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/11/c7uXd1E5UPUpUNQpbclAPHu16uO.webp",
+     "url": "https://master.streamhls.com/hlsr2/049a1a4ff35c67cbe86748fd857ac85c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Hellraiser (2022) เฮลล์ไรเซอร์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/11/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.webp",
+     "url": "https://master.streamhls.com/hlsr2/1fefcb39970d27ce35f9364ad36855d9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Floor Plan (2024) บ้านวิกล",
+     "info": "หนังญี่ปุ่น พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/uRSxHdzZUdmDu6wipC7xjPHwjOh.webp",
+     "url": "https://master.streamhls.com/hlsr2/0b3f474fb549769248e88bfe921f2d38/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca.webp",
+     "url": "https://master.streamhls.com/hlsr2/64b415f2fed0013fc5b91771bec5e03d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Outside (2024) เอาท์ไซด์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/hxVOPYEO6INAstcZfE83fcS1Owg.webp",
+     "url": "https://master.streamhls.com/hlsr2/e866b9a94687070eb0411918bdfdc7d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "House of Spoils (2024) เชฟ บ้านวิญญาณหลอน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/udfMAdiyKhgAS47dRXEnXo6tHt6.webp",
+     "url": "https://master.streamhls.com/hlsr2/079c8b33918ce705ec9bfecfb5e1e68f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9.webp",
+     "url": "https://master.streamhls.com/hlsr2/e6a9b3917e813a67315f6c6c7ac12060/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
