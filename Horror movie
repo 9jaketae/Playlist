@@ -811,6 +811,13 @@
      "image": "https://www.movies-d.com/wp-content/uploads/2023/11/jVBNkdKIXLJEIMTU0ZlwA58BpDy-scaled.webp",
      "url": "https://master.streamhls.com/hlsr2/065d5eea305552507b95ee6a4020470d/master.m3u8",
      "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Incantation (2022) มนตรา พากย์ไทย",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2022/07/Incantation-2022-มนตรา.jpeg",
+     "url": "https://nanaplayer.com/m60r8hvq36x7",
+     "referer": "https://www.nanamovies.me/"
     }
    ]
   },
