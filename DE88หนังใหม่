@@ -4,6 +4,34 @@
  "groups": [
 
   {
+   "name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+   "info": "HD th IMDb  6.9",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2025/06/A-Widows-Game-2025.jpg",
+   "stations": [
+    {
+     "name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2025/06/A-Widows-Game-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4090f91fd08f74e364d36931f6ce50c2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Persian Version (2023) เดอะ เปอร์เซีย เวอร์ชั่น",
+   "info": "HD th IMDb 6.9",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2023/12/The-Persian-Version-2023.jpg",
+   "stations": [
+    {
+     "name": "The Persian Version (2023) เดอะ เปอร์เซีย เวอร์ชั่น",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2023/12/The-Persian-Version-2023.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dc7fc3272e8c50d19e3e520cf27f792f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Apocalypse Z The Beginning of the End (2024) อะโพคาลิปซิส เซต้า จุดเริ่มต้นของจุดจบ",
    "info": "HD th IMDb 6.1",
    "image": "https://f.ptcdn.info/066/086/000/m38f8wm4ic4fSC2vbtg-o.jpg",
