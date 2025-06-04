@@ -1,8 +1,36 @@
   {
    "name": "รวมหนังผีสยอง",
    "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
-   "stations": [
+   "groups": [
 
+  {
+   "name": "The Strangers",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2023/05/The-Strangers-2008-คืนโหด-คนแปลกหน้า.jpeg",
+   "stations": [
+    {
+     "name": "The Strangers (2008) คืนโหด คนแปลกหน้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/12/20190215182810the-strangers-590749ae49d86.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d633361c65e46a3ba624c3af2a0d8683/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Strangers: Prey at Night (2018) คนแปลกหน้า ขอฆ่าหน่อยสิ ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2018/05/The-Strangers-Prey-at-Night-2018.jpeg.webp",
+     "url": "https://nanaplayer.com/ng6ddc37nrmk",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Strangers: Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/05/dlW5p3CM3YG4MlFzU9KdQBA5Ijl.webp",
+     "url": "https://master.streamhls.com/hlsr2/cd5a1f3f37e60f0813cb682a9b4b8247/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
     {
      "name": "Deliver Us from Evil (2014) ล่าท้าอสูรนรก",
      "info": "หนังฝรั่ง พากย์ไทย",
@@ -372,20 +400,6 @@
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://www.movies-d.com/wp-content/uploads/2024/05/xpNXH2z7q3hB0GuNXzGFeEX6k7C.webp",
      "url": "https://master.streamhls.com/hlsr2/c780a0a428043f7608fb580696bf784d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Strangers: Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2024/05/dlW5p3CM3YG4MlFzU9KdQBA5Ijl.webp",
-     "url": "https://master.streamhls.com/hlsr2/cd5a1f3f37e60f0813cb682a9b4b8247/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Strangers (2008) คืนโหด คนแปลกหน้า",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/12/20190215182810the-strangers-590749ae49d86.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d633361c65e46a3ba624c3af2a0d8683/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
