@@ -4,6 +4,13 @@
    "stations": [
 
     {
+     "name": "Red Snow Killer (The Murderer) (2013) นักฆ่าบริสุทธิ์",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/12/fullsizephoto389413.webp",
+     "url": "https://master.streamhls.com/hlsr2/67afc1862af62a045ec75f1dbd663478/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
      "name": "Hostel (2005) นรกรอชำแหละ",
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://nanamovies.net/wp-content/uploads/2019/12/Hostel-2005.jpeg.webp",
