@@ -4,6 +4,34 @@
  "groups": [
 
   {
+   "name": "28 Days Later",
+   "info": "HD th IMDb n/a",
+ "image": "https://www.123-hdd.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน-250x350.png",
+   "stations": [
+    {
+     "name": "28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
+     "info": "หนังฝรั่ง, พากย์ไทย",
+ "image": "https://www.123-hdd.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน-250x350.png",
+     "url": "https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be34c5917b47.m3u8",
+     "referer": "https://www.123-hdd.com/"
+    },
+    {
+     "name": "28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง",
+     "info": "หนังฝรั่ง, พากย์ไทย",
+     "image": "https://www.123-hdd.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8",
+     "referer": "https://www.123-hdd.com/"
+    },
+    {
+     "name": "28 Years Later (2025) 28 ปีให้หลัง เชื้อเขมือบคน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hdd.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-187x269.png",
+     "url": "https://main.24playerhd.com/newplaylist/ea40b84625de77f7c9608a94/ea40b84625de77f7c9608a94.m3u8",
+     "referer": "https://www.24-hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "Cheers to Life (2025) เชียร์ส ทู ไลฟ์",
    "info": "HD th IMDb 5.9",
    "image": "https://moviesdoofree.com/wp-content/uploads/2025/06/5-2.jpg",
