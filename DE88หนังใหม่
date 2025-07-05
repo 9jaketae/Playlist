@@ -4,6 +4,55 @@
  "groups": [
 
   {
+   "name": "The Old Guard ดิ โอลด์ การ์ด ",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2020/07/The-Old-Guard-2020.jpeg",
+   "stations": [
+    {
+     "name": "The Old Guard (2020) ดิ โอลด์ การ์ด ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2020/07/The-Old-Guard-2020.jpeg",
+     "url": "https://nanaplayer.com/qsxyut98fpkx",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2 พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/The-Old-Guard-2-2025.webp",
+     "url": "https://nanaplayer.com/7i4h6keiiplt",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่ พากย์ไทย",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025.webp",
+   "stations": [
+    {
+     "name": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่ พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025.webp",
+     "url": "https://nanaplayer.com/ts3rjhrc1s8n",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต พากย์ไทย",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/Heads-of-State-2025.webp",
+   "stations": [
+    {
+     "name": "Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Heads-of-State-2025.webp",
+     "url": "https://nanaplayer.com/sx2lllgtvngi",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "F1 The Movie (2025) F1 เดอะ มูฟวี่ พากย์ไทย",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.net/wp-content/uploads/2025/06/F1-The-Movie-2025.webp",
