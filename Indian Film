@@ -1,9 +1,22 @@
 {
   "name": "หนังอินเดีย",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 14 สิงหาคม 2566",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
 
+  {
+   "name": "Jewel Thief – The Heist Begins (2025) จอมโจรอัญมณี: เริ่มแผนโจรกรรม",
+   "info": "HD th IMDb 8.0",
+   "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Jewel-Thief-The-Heist-Begins-2025.webp",
+   "stations": [
+    {
+     "name": "Jewel Thief – The Heist Begins (2025) จอมโจรอัญมณี: เริ่มแผนโจรกรรม",
+     "info": "หน้งแขก พากย์ไทย",
+     "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Jewel-Thief-The-Heist-Begins-2025.webp",
+     "url": "https://m5-txt-2.xdomovie247.com/playlist2/detail/d70fd21fmxze3/1080/hls/index.m3u8",
+     "referer": "https://m5-txt-2.xdomovie247.com/"
+    }
+   ]
+  },
     {
       "name": "Adipurush (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/1-1-300x450.jpg",
