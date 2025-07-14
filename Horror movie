@@ -4,20 +4,6 @@
    "groups": [
 
   {
-   "name": "แช่ง Chaeng (2019)",
-   "info": "HD th IMDb n/a",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
-   "stations": [
-    {
-     "name": "แช่ง Chaeng (2019)",
-     "info": "หนังไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
-     "url": "https://nanaplayer.com/g7unbfazed9y",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
    "name": "Them Behind the Door (2024) เปิด DOOR เห็นผี",
    "info": "HD th IMDb n/a",
    "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Them-Behind-the-Doo.jpg",
@@ -100,8 +86,57 @@
     }
    ]
   },
+
   {
-   "name": "รวมหนังผีสยอง",
+   "name": "รวมหนังผีไทย",
+   "image": "https://www.sarakadeelite.com/wp-content/uploads/2020/07/nak3.jpg",
+   "groups": [
+
+  {
+   "name": "แช่ง Chaeng (2019)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
+   "stations": [
+    {
+     "name": "แช่ง Chaeng (2019)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
+     "url": "https://nanaplayer.com/g7unbfazed9y",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "หอ หึ หึ HOR HUE HUE (1992)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/%E0%B8%AB%E0%B8%AD-%E0%B8%AB%E0%B8%B6-%E0%B8%AB%E0%B8%B6-1992.webp",
+   "stations": [
+    {
+     "name": "หอ หึ หึ HOR HUE HUE (1992)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/%E0%B8%AB%E0%B8%AD-%E0%B8%AB%E0%B8%B6-%E0%B8%AB%E0%B8%B6-1992.webp",
+     "url": "https://nanaplayer.com/v4rm8s1hhqip",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "ผีโทรศัพท์ Viral (2018)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2019/03/Viral-2018.jpeg.webp",
+   "stations": [
+    {
+     "name": "ผีโทรศัพท์ Viral (2018)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2019/03/Viral-2018.jpeg.webp",
+     "url": "https://nanaplayer.com/gxrcddlxe3ky",
+     "referer": "https://www.nanamovies.me/"
+    }
+ ]
+}]},
+
+  {
+   "name": "รวมหนังผี",
    "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
    "stations": [
     {
