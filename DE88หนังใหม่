@@ -4,6 +4,27 @@
  "groups": [
 
   {
+   "name": "Happy Gilmore",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2022/11/Happy-Gilmore-1996-กิลมอร์-พลังช้าง.jpeg",
+   "stations": [
+    {
+     "name": "Happy Gilmore 2 (2025) แฮปปี้ กิลมอร์ 2 พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Happy-Gilmore-2-2025.webp",
+     "url": "https://nanaplayer.com/j6wddrvkxc0b",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Happy Gilmore (1996) กิลมอร์ พลังช้าง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2022/11/Happy-Gilmore-1996-กิลมอร์-พลังช้าง.jpeg",
+     "url": "https://nanaplayer.com/cbsofqqzvstr",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "Brick (2025) กำแพง พากย์ไทย",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.org/wp-content/uploads/2025/07/Brick-2025.webp",
