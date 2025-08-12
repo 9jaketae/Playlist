@@ -4,6 +4,26 @@
  "groups": [
 
   {
+   "name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น พากย์ไทย",
+   "image": "https://image.tmdb.org/t/p/w300/yvVj2jLBCA9xwbwgFCxHWiX1Iww.jpg",
+   "stations": [
+    {
+     "name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://image.tmdb.org/t/p/w300/yvVj2jLBCA9xwbwgFCxHWiX1Iww.jpg",
+     "url": "https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/9eed4245c57a63364f620f552f96de92/1a7f61f76c3c57142c27d7bbfe72f5b1/index.m3u8",
+     "referer": "https://movie.goal-th.com/"
+    },
+    {
+     "name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Freakier-Friday-2025.webp",
+     "url": "https://nanaplayer.com/5u2g9ttuhkpc",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "Weapons (2025) เวเพินส์ พากย์ไทย",
    "info": "HD th IMDb 8.0",
    "image": "https://nanamovies.org/wp-content/uploads/2025/08/Weapons-2025.webp",
