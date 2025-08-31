@@ -4,6 +4,20 @@
  "groups": [
 
   {
+   "name": "The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัสฯ",
+   "info": "HD th IMDb 6.8",
+   "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025.jpg",
+   "stations": [
+    {
+     "name": "The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัสฯ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025.jpg",
+     "url": "https://master.streamhls.com/hls/83f63443bf4cf8a10b09b54c0b7220ae/master.m3u8",
+     "referer": "https://www.037hdd-movie.com/"
+    }
+   ]
+  },
+  {
    "name": "Love Hurts (2025) ด้วยรักและลูกปืน พากย์ไทย",
    "info": "HD th IMDb 5.3 / 10",
    "image": "https://nanamovies.org/wp-content/uploads/2025/04/Love-Hurts-2025.webp",
