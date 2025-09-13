@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/09/The-Wrong-Paris-2025.webp",
+   "stations": [
+    {
+     "name": "The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/09/The-Wrong-Paris-2025.webp",
+     "url": "https://nanaplayer.com/81o5n5m00y21",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Kontrabida Academy (2025) สถาบันนางร้าย",
    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-สถาบันนางร้าย-187x269.png",
    "stations": [
