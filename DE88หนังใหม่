@@ -4,6 +4,45 @@
  "groups": [
 
   {
+   "name": "One Battle After Another (2025) หนึ่งศึกครั้งแล้วครั้งเล่า",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/10/One-Battle-After-Another-2025.webp",
+   "stations": [
+    {
+     "name": "One Battle After Another (2025) หนึ่งศึกครั้งแล้วครั้งเล่า",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/10/One-Battle-After-Another-2025.webp",
+     "url": "https://nanaplayer.com/x3i1vs124j4z",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/10/Play-Dirty-2025.webp",
+   "stations": [
+    {
+     "name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/10/Play-Dirty-2025.webp",
+     "url": "https://nanaplayer.com/tzvob4d0rp23",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "Steve (2025) สตีฟ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24hd-movie.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ.png",
+   "stations": [
+    {
+     "name": "Steve (2025) สตีฟ",
+     "image": "https://www.24hd-movie.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ.png",
+     "url": "https://main.24playerhd.com/m3u8/a960e4bc9af3abd31f4b51cc/a960e4bc9af3abd31f4b51cc168.m3u8",
+     "referer": "https://www.24hd-movie.com/"
+    }
+   ]
+  },
+  {
    "name": "French Lover (2025) พบรักซูเปอร์สตาร์ พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/09/French-Lover-2025.webp",
    "stations": [
