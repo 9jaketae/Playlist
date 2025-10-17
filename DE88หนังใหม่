@@ -4,6 +4,45 @@
  "groups": [
 
   {
+   "name": "27 Nights (2025) 27 คืน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-187x269.png",
+   "stations": [
+    {
+     "name": "27 Nights (2025) 27 คืน",
+     "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/e87e48d194ee0120565207f2/e87e48d194ee0120565207f2438.m3u8",
+     "referer": "https://www.24-hdmovie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Good News (2025) พลิกน่านฟ้าผ่าวิกฤติ",
+   "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/Good-News-2025-พลิกน่านฟ้าผ่าวิกฤติ-187x269.png",
+   "stations": [
+    {
+     "name": "Good News (2025) พลิกน่านฟ้าผ่าวิกฤติ",
+     "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/Good-News-2025-พลิกน่านฟ้าผ่าวิกฤติ-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/635f03ceb86870d4fa485a3a/635f03ceb86870d4fa485a3a168.m3u8",
+     "referer": "https://www.24-hdmovie.com/"
+    }
+   ]
+  },
+  {
+   "name": "She Walks in Darkness (2025) เธอเดินไปในเงามืด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด-187x269.png",
+   "stations": [
+    {
+     "name": "She Walks in Darkness (2025) เธอเดินไปในเงามืด",
+     "image": "https://www.24-hdmovie.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/c51df4eb39ff4a154c0e543e/c51df4eb39ff4a154c0e543e168.m3u8",
+     "referer": "https://www.24-hdmovie.com/"
+    }
+   ]
+  },
+  {
    "name": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/10/The-Woman-in-Cabin-10-2025.webp",
