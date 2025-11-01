@@ -3,6 +3,85 @@
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
  "groups": [
 
+
+  {
+   "name": "Ballad of a Small Player (2025) อดีตที่ตามไล่ล่า ชะตาที่ไม่อาจฝืน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Ballad-of-a-Small-Player_2025.jpg",
+   "stations": [
+    {
+     "name": "Ballad of a Small Player (2025) อดีตที่ตามไล่ล่า ชะตาที่ไม่อาจฝืน 6.7/10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Ballad-of-a-Small-Player_2025.jpg",
+     "url": "https://master.streamhls.com/hls/50f16f66e7f94ac2231153be712574bf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Scurry (2025) ฝ่าระทึก ลึกใต้โลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Scurry_2025.jpg",
+   "stations": [
+    {
+     "name": "Scurry (2025) ฝ่าระทึก ลึกใต้โลก 6.8 /10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Scurry_2025.jpg",
+     "url": "https://master.streamhls.com/hls/069a4ca858eb4f0aa6f9aa1005afc837/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Eden (2025) สวรรค์คนบาป",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Eden_2025.jpg",
+   "stations": [
+    {
+     "name": "Eden (2025) สวรรค์คนบาป 6.4 /10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/Eden_2025.jpg",
+     "url": "https://master.streamhls.com/hls/c26742d2789b86560276a36e33ad36b0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Osiris (2025) โอซิริส มฤตยูล้างพันธุ์มนุษย์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/Osiris_2025.jpg",
+   "stations": [
+    {
+     "name": "Osiris (2025) โอซิริส มฤตยูล้างพันธุ์มนุษย์ 6.5 /10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/Osiris_2025.jpg",
+     "url": "https://master.streamhls.com/hls/e7d024193a9da6cce6c80d5136ec4be8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "A House of Dynamite (2025) ยุทธศาสตร์ อำนาจ ล้างโลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/A-House-of-Dynamite_2025.jpg",
+   "stations": [
+    {
+     "name": "A House of Dynamite (2025) ยุทธศาสตร์ อำนาจ ล้างโลก 7.2 /10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/A-House-of-Dynamite_2025.jpg",
+     "url": "https://master.streamhls.com/hls/0a782ed2985d074ce9e3f34cc390e940/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Elixir (2025) น้ำทิพย์ชะโลมตาย",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/The-Elixir_2025.jpg",
+   "stations": [
+    {
+     "name": "The Elixir (2025) น้ำทิพย์ชะโลมตาย 6.5 /10",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/10/The-Elixir_2025.jpg",
+     "url": "https://master.streamhls.com/hls/73f01852f46693c74670354109720613/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "The Woman in the Yard วิปลาสหลอนตาย (2025)",
    "info": "หนังฝรั่ง พากย์ไทย",
