@@ -3,7 +3,19 @@
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
  "groups": [
 
-
+  {
+   "name": "Hedda (2025)",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://moviesdoofree.com/wp-content/uploads/2025/10/2-10-scaled.jpg",
+   "stations": [
+    {
+     "name": "Hedda (2025)",
+     "image": "https://moviesdoofree.com/wp-content/uploads/2025/10/2-10-scaled.jpg",
+     "url": "https://m3u8haha.com/movie/M15516.mp4/chunk.m3u8",
+     "referer": "https://moviesdoofree.com/"
+    }
+   ]
+  },
   {
    "name": "Ballad of a Small Player (2025) อดีตที่ตามไล่ล่า ชะตาที่ไม่อาจฝืน",
    "info": "หนังฝรั่ง พากย์ไทย",
