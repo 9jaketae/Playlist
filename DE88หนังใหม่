@@ -4,6 +4,45 @@
  "groups": [
 
   {
+   "name": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
+   "info": หนังฝรั่ง "พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/05/Death-of-a-Unicorn.png",
+   "stations": [
+    {
+     "name": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/05/Death-of-a-Unicorn.png",
+     "url": "https://master.streamhls.com/hls/ee645e0fe0e1b7fba6fb32c15003d5c0/master.m3u8",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
+   "name": "Primitive War (2025) สงครามโลกล้านปี",
+   "info": หนังฝรั่ง "พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/Primitive-War_2025.jpg",
+   "stations": [
+    {
+     "name": "Primitive War (2025) สงครามโลกล้านปี",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/Primitive-War_2025.jpg",
+     "url": "https://master.streamhls.com/hls/67599a00e28e039580fad628bde3639a/master.m3u8",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
+   "name": "Predator: Badlands (2025) พรีเดเตอร์: แดนเถื่อน",
+   "info": หนังฝรั่ง "พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/11/Predator_-Badlands_.jpg",
+   "stations": [
+    {
+     "name": "Predator: Badlands (2025) พรีเดเตอร์: แดนเถื่อน",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/11/Predator_-Badlands_.jpg",
+     "url": "https://master.streamhls.com/hls/ebeec143c561618dc5081f81acf82e31/master.m3u8",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
    "name": "The Smashing Machine (2025) ตำนานเครื่องจักร สังเวียนเดือด",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://www.kub-hd.com/wp-content/uploads/2025/09/The-Smashing-Machine-2025.webp",
