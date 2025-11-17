@@ -4,6 +4,31 @@
  "groups": [
 
   {
+   "name": "Now You See Me อาชญากลปล้นโลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/11/Now-You-See-Me-3-2025.webp",
+   "stations": [
+    {
+     "name": "Now You See Me 3 (2025) อาชญากลปล้นโลก 3",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/11/Now-You-See-Me-3-2025.webp",
+     "url": "https://nanaplayer.com/irbt34qwhx9z",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Now You See Me 2 (2016) อาชญากลปล้นโลก 2 ",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/09/Now-You-See-Me-2-2016.jpeg.webp",
+     "url": "https://nanaplayer.com/bx7j6kcmowc5",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Now You See Me (2013) อาชญากลปล้นโลก",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/05/Now-You-See-Me-2013.jpg.webp",
+     "url": "https://nanaplayer.com/lbch2nquhqh1",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://www.v8-hdd.com/wp-content/uploads/2025/05/Death-of-a-Unicorn.png",
