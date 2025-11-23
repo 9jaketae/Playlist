@@ -4,6 +4,51 @@
  "groups": [
 
   {
+   "name": "Wicked วิคเค็ด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2024/11/Wicked-Part-I-2024.webp",
+   "stations": [
+    {
+     "name": "Wicked For Good (2025) วิคเค็ด 2",
+     "image": "https://www.kub-hd.com/wp-content/uploads/2025/09/Wicked-For-Good-2025.webp",
+     "url": "https://nanaplayer.com/mokc3lpdkxha",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Wicked Part I (2024) วิคเค็ด",
+     "image": "https://nanamovies.org/wp-content/uploads/2024/11/Wicked-Part-I-2024.webp",
+     "url": "https://nanaplayer.com/wc3okuqb0cxa",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "Shelby Oaks (2025) เชลบี้ โอคส์ คลิปเฮี้ยน คดีหลอน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/11/Shelby-Oaks-2025.webp",
+   "stations": [
+    {
+     "name": "Shelby Oaks (2025) เชลบี้ โอคส์ คลิปเฮี้ยน คดีหลอน",
+     "image": "https://lk-hd1.com/wp-content/uploads/2025/11/Shelby-Oaks-2025-เชลบี้-โอคส์-คลิปเฮี้ยน-คดีหลอน.jpg",
+     "url": "https://nanaplayer.com/hf6mhtl4p7pw",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "Train Dreams (2025) ทางรถไฟสายฝัน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/11/Train-Dreams-2025.webp",
+   "stations": [
+    {
+     "name": "Train Dreams (2025) ทางรถไฟสายฝัน",
+     "image": "https://lk-hd1.com/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน.jpg",
+     "url": "https://nanaplayer.com/w9g9brdyisgv",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Flower Girl (2025) อลวนสาวกลีบหาย",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://lk-hd1.com/wp-content/uploads/2025/11/Flower-Girl-2025-อลวนสาวกลีบหาย.jpg",
