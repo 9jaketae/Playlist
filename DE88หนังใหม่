@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "Keeper (2025) เจ้าที่ปีศาจ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/12/Keeper-2025.webp",
+   "stations": [
+    {
+     "name": "Keeper (2025) เจ้าที่ปีศาจ",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/12/Keeper-2025.webp",
+     "url": "https://nanaplayer.com/spe0rytnhbtm",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Sisu สิสู้…เฒ่ามหากาฬ",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/11/Sisu-2-2025.webp",
