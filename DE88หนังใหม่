@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "Scurry (2025) ฝ่าระทึก ลึกใต้โลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/10/Scurry-2025.webp",
+   "stations": [
+    {
+     "name": "Scurry (2025) ฝ่าระทึก ลึกใต้โลก",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/10/Scurry-2025.webp",
+     "url": "https://nanaplayer.com/bb8eft3eggzw",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Baramulla (2025) บารามุลลาอาถรรพ์",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/11/Baramulla-2025-1.webp",
