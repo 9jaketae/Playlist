@@ -4,6 +4,19 @@
   "groups": [
 
   {
+   "name": "Raat Akeli Hai: The Bansal Murders (2025) (คืนฆ่าล้างตระกูล)​",
+   "info": "หน้งแขก พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/12/Raat-Akeli-Hai_-The-Bansal-Murders_.jpg",
+   "stations": [
+    {
+     "name": "Raat Akeli Hai: The Bansal Murders (2025)",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/12/Raat-Akeli-Hai_-The-Bansal-Murders_.jpg",
+     "url": "https://master.streamhls.com/hls/a0aac82a8d2cf38751dc04ec359e08ea/master.m3u8",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
    "name": "ใครสักคนที่เหมือนเธอ Aap Jaisa Koi (2025)",
    "info": "HD th IMDb n/a",
    "image": "https://movie747hd.com/wp-content/uploads/2025/07/3-4.jpg",
