@@ -4,6 +4,45 @@
  "groups": [
 
   {
+   "name": "The Tank (2025) รถถังเจ้าพยัคฆ์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://lk-hd1.com/wp-content/uploads/2026/01/The-Tank.jpg",
+   "stations": [
+    {
+     "name": "The Tank (2025) รถถังเจ้าพยัคฆ์",
+     "image": "https://lk-hd1.com/wp-content/uploads/2026/01/The-Tank.jpg",
+     "url": "https://original.enjoy24cdn.com/hlsr2/4452ac76b25c069a38299ce227b99188/master.m3u8",
+     "referer": "https://lk-hd1.com/"
+    }
+   ]
+  },
+  {
+   "name": "Trap House (2025) ดักแผนล่า ท้าทรชน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://lk-hd1.com/wp-content/uploads/2026/01/Trap-House.jpg",
+   "stations": [
+    {
+     "name": "Trap House (2025) ดักแผนล่า ท้าทรชน",
+     "image": "https://lk-hd1.com/wp-content/uploads/2026/01/Trap-House.jpg",
+     "url": "https://original.enjoy24cdn.com/hlsr2/8196edd5def56589a507d4645308d3ba/master.m3u8",
+     "referer": "https://lk-hd1.com/"
+    }
+   ]
+  },
+  {
+   "name": "Anaconda (2025) อนาคอนดา เลื้อยสยองโลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://lk-hd1.com/wp-content/uploads/2025/12/Anaconda.jpg",
+   "stations": [
+    {
+     "name": "Anaconda (2025) อนาคอนดา เลื้อยสยองโลก",
+     "image": "https://lk-hd1.com/wp-content/uploads/2025/12/Anaconda.jpg",
+     "url": "https://original.enjoy24cdn.com/hlsr2/ac56cd173f3da965abf18a497935c656/master.m3u8",
+     "referer": "https://lk-hd1.com/"
+    }
+   ]
+  },
+  {
    "name": "Bring Her Back (2025) เรียกมันกลับมาหลอน",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://www.037hddmovie.com/wp-content/uploads/2025/07/Bring-Her-Back-2025.jpg",
