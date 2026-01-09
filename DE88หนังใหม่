@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "Eternity (2025) สามรัก หนึ่งนิรันดร์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2026/01/Eternity-2025.jpg",
+   "stations": [
+    {
+     "name": "Eternity (2025) สามรัก หนึ่งนิรันดร์",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2026/01/Eternity-2025.jpg",
+     "url": "https://master.streamhls.com/hls/279dbccce989279281a1d1396546e5f3/master.m3u8",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
    "name": "The Tank (2025) รถถังเจ้าพยัคฆ์",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://lk-hd1.com/wp-content/uploads/2026/01/The-Tank.jpg",
