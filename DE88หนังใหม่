@@ -4,6 +4,38 @@
  "groups": [
 
   {
+   "name": "Greenland นาทีระทึก..วันสิ้นโลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2020/11/Greenland-2020-นาทีระทึก..วันสิ้นโลก-ไทยโรง-Full-HD.jpeg",
+   "stations": [
+    {
+     "name": "Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ",
+     "image": "https://www.24-hdmovie.com/wp-content/uploads/2026/01/Greenland-2-Migration-2025-ฝ่าชะตา-โลกาวินาศ-187x269.png",
+     "url": "https://main.24playerhd.com/newplaylist/8b1f6ea78f972d03517b7239/8b1f6ea78f972d03517b7239.m3u8",
+     "referer": "https://www.24-hdmovie.com/"
+    },
+    {
+     "name": "Greenland (2020) นาทีระทึก..วันสิ้นโลก",
+     "image": "https://nanamovies.org/wp-content/uploads/2020/11/Greenland-2020-นาทีระทึก..วันสิ้นโลก-ไทยโรง-Full-HD.jpeg",
+     "url": "https://nanaplayer.com/cma103cmuauf",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "The Cursed: Insatiable Desires (2025) เรื่องผีสาป",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2026/01/The-Cursed_-Insatiable-Desires_.jpg",
+   "stations": [
+    {
+     "name": "The Cursed: Insatiable Desires (2025) เรื่องผีสาป",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2026/01/The-Cursed_-Insatiable-Desires_.jpg",
+     "url": "https://master.streamhls.com/hls/144d98859831b517c702d4353f86e1f3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "The Rip (2026) เงินบาปกระชากคน",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://1112hdx.com/wp-content/uploads/2026/01/30.jpg",
