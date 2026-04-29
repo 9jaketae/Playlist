@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "Shooter (2007) คนระห่ำปืนเดือด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2016/04/Shooter-2007.jpg",
+   "stations": [
+    {
+     "name": "Shooter (2007) คนระห่ำปืนเดือด",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/04/Shooter-2007.jpg",
+     "url": "https://nanaplayer.com/vnh6n57wlrdg",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "The Burning Sea (2021) มหาวิบัติหายนะทะเลเพลิง",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2022/03/The-Burning-Sea-2021-ซับไทย-Full-HD.jpeg",
