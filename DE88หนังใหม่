@@ -4,6 +4,19 @@
  "groups": [
 
   {
+   "name": "Atlas (2024) ล่าข้ามจักรวาล",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2024/05/Atlas.jpg",
+   "stations": [
+    {
+     "name": "Atlas (2024) ล่าข้ามจักรวาล",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2024/05/Atlas.jpg",
+     "url": "https://master.streamhls.com/hls/8b3999467099e14b1d1ad1616e9a6b3a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Shooter (2007) คนระห่ำปืนเดือด",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2016/04/Shooter-2007.jpg",
