@@ -4,6 +4,49 @@
  "groups": [
 
   {
+   "name": "Scary Movie ยำหนังจี้",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2026/06/Scary-Movie-6-2026.webp",
+   "stations": [
+    {
+     "name": "Scary Movie 6 (2026) ยำหนังจี้ 6 ",
+     "image": "https://nanamovies.org/wp-content/uploads/2026/06/Scary-Movie-6-2026.webp",
+     "url": "https://nanaplayer.com/uk7jmm9pmqr9",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Scary Movie 5 (2013) ยำหนังจี้ เรียลลิตี้หลุดโลก ภาค 5",
+     "image": "https://nanamovies.org/wp-content/uploads/2018/01/Scary-Movie-5-2013.jpeg",
+     "url": "https://nanaplayer.com/jbp3gfjhf1f6",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Scary Movie 4 (2006) ยําหนังจี้ หวีดล้างโลก ภาค 4",
+     "image": "https://nanamovies.org/wp-content/uploads/2018/01/Scary-Movie-4-2006.jpeg",
+     "url": "https://main.24playerhd.com/newplaylist/6167d64e17093dfe0369b539/6167d64e17093dfe0369b539.m3u8",
+     "referer" : "https://www.24-hds.com/"
+    },
+    {
+     "name": "Scary Movie 3 (2003) สยองหวีดจี้ ดีจังหว่า",
+     "image": "https://www.24-hds.com/wp-content/uploads/2023/03/Scary-Movie-3-2003-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/f92184d9dde12ff7d2e3ef55/f92184d9dde12ff7d2e3ef55.m3u8",
+     "referer": "https://www.24-hds.com/"
+    },
+    {
+     "name": "Scary Movie 2 (2001) หวีด(อีกสักที) จะดีไหมหว่า",
+     "image": "https://www.24-hds.com/wp-content/uploads/2023/03/Scary-Movie-2-2001-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/234096cac2a05d7c562664b2/234096cac2a05d7c562664b2.m3u8",
+     "referer": "https://www.24-hds.com/"
+    },
+    {
+     "name": "Scary Movie (2000) ยำหนังจี้ หวีดดีไหมหว่า",
+     "image": "https://www.24-hds.com/wp-content/uploads/2023/03/Scary-Movie-2000-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/d595d0d86d92688877ccb666/d595d0d86d92688877ccb666.m3u8",
+     "referer": "https://www.24-hds.com/"
+    }
+   ]
+  },
+  {
    "name": "Buen Camino พ่อป่วน ลูกหนี ทริปนี้มีแต่เรื่อง (2025)",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://hd.movie285.com/wp-content/uploads/2026/05/pwrfvnk9.jpg",
