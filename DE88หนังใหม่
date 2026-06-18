@@ -4,6 +4,43 @@
  "groups": [
 
   {
+   "name": "Your Fault คำขอโทษ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2024/12/Your-Fault-2024.webp",
+   "stations": [
+    {
+     "name": "Your Fault London (2026) คำขอโทษ ลอนดอน 2",
+     "image": "https://nanamovies.org/wp-content/uploads/2026/06/Your-Fault-London-2026.webp",
+     "url": "https://nanaplayer.com/tjldtqk7tved",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Our Fault (2025) คำขอโทษ 3",
+     "image": "https://9.9nung.com/wp-content/uploads/2025/10/ht3jYQhm3bc37C6sP2I77LIPvaD-185x278.jpg",
+     "url": "https://media.vdohls.com/orqrcwnwbmwhwwl/playlist.m3u8",
+     "referer": "https://media.vdohls.com/"
+    },
+    {
+     "name": "Your Fault (2024) คำขอโทษ 2",
+     "image": "https://nanamovies.org/wp-content/uploads/2024/12/Your-Fault-2024.webp",
+     "url": "https://nanaplayer.com/vdukf7ga57s0",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Your Fault (2024) คำขอโทษ 2",
+     "image": "https://nanamovies.org/wp-content/uploads/2024/12/Your-Fault-2024.webp",
+     "url": "https://enjoy24cdn.com/hlsr2/743206c1f4d0f19450e5fbc5ab12ce0f/master.m3u8",
+     "referer" : "https://lk-hd.org/"
+    },
+    {
+     "name": "My Fault (2023) คำขอโทษ",
+     "image": "https://lk-hd.org/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/32da4b11042ced1639495c2f32d4baca/master.m3u8",
+     "referer": "https://lk-hd.org/"
+    }
+   ]
+  },
+  {
    "name": "Scary Movie ยำหนังจี้",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2026/06/Scary-Movie-6-2026.webp",
