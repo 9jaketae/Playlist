@@ -4,6 +4,19 @@
   "groups": [
 
   {
+   "name": "Pati Patni Aur Woh Do (2026) สามี ภรรยา และยัยสองสาวตัวป่วน",
+   "info": "พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2026/08/Pati-Patni-Aur-Woh-Do-2026.webp",
+   "stations": [
+    {
+     "name": "Pati Patni Aur Woh Do (2026) สามี ภรรยา และยัยสองสาวตัวป่วน",
+     "image": "https://nanamovies.org/wp-content/uploads/2026/08/Pati-Patni-Aur-Woh-Do-2026.webp",
+     "url": "https://master.streamhls.com/hls/b5ed64c19a7753239dd9f4b4cf0adfb9/master.m3u8",
+     "referer" : "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Do Deewane Seher Mein (2026) สองหัวใจในเมืองใหญ่",
    "info": "หน้งแขก พากย์ไทย",
    "image": "https://kub24hd.net/wp-content/uploads/2026/05/Do-Deewane-Seher-Mein-2026.webp",
