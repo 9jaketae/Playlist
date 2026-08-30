@@ -37,6 +37,25 @@
    ]
   },
   {
+   "name": "Nobody คนธรรมดานรกเรียกพี่",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2021/04/Nobody-2021-คนธรรมดานรกเรียกพี่-ไทยโรง-Full-HD.jpeg",
+   "stations": [
+    {
+     "name": "Nobody 2 (2025) คนธรรมดานรกเรียกพี่ 2",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Nobody-2-2025.webp",
+     "url": "https://main.24playerhd.com/m3u8/d8241e97abbbb6fbd3f0c240/d8241e97abbbb6fbd3f0c240168.m3u8",
+     "referer": "https://www.24-hdx.com/"
+    },
+    {
+     "name": "Nobody (2021) คนธรรมดานรกเรียกพี่",
+     "image": "https://www.24-hdx.com/wp-content/uploads/2023/02/Nobody-2021-คนธรรมดานรกเรียกพี่-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/5f2ffa866cfed56965940138/5f2ffa866cfed56965940138168.m3u8",
+     "referer": "https://www.24-hdx.com/"
+    }
+   ]
+  },
+  {
    "name": "Song Sung Blue (2025) บทเพลงสีเศร้า",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://www.24-hdx.com/wp-content/uploads/2026/07/Song-Sung-Blue-2025-บทเพลงสีเศร้า-187x269.png",
