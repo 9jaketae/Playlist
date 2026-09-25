@@ -4,6 +4,25 @@
  "groups": [
 
   {
+   "name": "Sicario ทีมพิฆาตทะลุแดนเดือด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.co/wp-content/uploads/2016/12/Sicario-2015-1.jpeg",
+   "stations": [
+    {
+     "name": "Sicario: Day of the Soldado (2018) ทีมพิฆาตทะลุแดนเดือด 2",
+     "image": "https://nanamovies.co/wp-content/uploads/2018/07/Sicario-Day-of-the-Soldado-2018.jpeg",
+     "url": "https://nanaplayer.com/k6nmpjjwboyp",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Sicario (2015) ทีมพิฆาตทะลุแดนเดือด",
+     "image": "https://nanamovies.co/wp-content/uploads/2016/12/Sicario-2015-1.jpeg",
+     "url": "https://nanaplayer.com/oo3c7ml9wlka",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "The Devil s Mouth (2026) ปากปีศาจ",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://ดูหนังสด.com/wp-content/uploads/2026/07/2-12.jpg",
