@@ -126,6 +126,51 @@
     }
    ]
   },
+
+  {
+   "name": "Wrong Turn หวีดเขมือบคน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1431.jpg",
+   "stations": [
+    {
+     "name": "Wrong Turn 6: Last Resort หวีดเขมือบคน 6 รีสอร์ทอำมหิต (2014)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1436.jpg",
+     "url": "https://ezycdn.stream/playlist-84iurv86-master.m3u8",
+     "referer": "https://hd.movie285.com/"
+    },
+    {
+     "name": "Wrong Turn 5: Bloodlines หวีดเขมือบคน ภาค 5 (2012)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1435.jpg",
+     "url": "https://ezycdn.stream/playlist-gp56ttr8-SD.m3u8",
+     "referer": "https://hd.movie285.com/"
+    },
+    {
+     "name": "Wrong Turn 4: Bloody Beginnings หวีดเขมือบคน ภาค 4 (2011)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1434.jpg",
+     "url": "https://ezycdn.stream/playlist-3oprh03h-SD.m3u8",
+     "referer": "https://hd.movie285.com/"
+    },
+    {
+     "name": "Wrong Turn 3: Left for Dead หวีดเขมือบคน ภาค 3 (2009)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1433.jpg",
+     "url": "https://ezycdn.stream/playlist-mt237iqn-master.m3u8",
+     "referer": "https://hd.movie285.com/"
+    },
+    {
+     "name": "Wrong Turn 2: Dead End หวีดเขมือบคน ภาค 2 (2007)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1432.jpg",
+     "url": "https://ezycdn.stream/playlist-09jphu1h-SD.m3u8",
+     "referer": "https://hd.movie285.com/"
+    },
+    {
+     "name": "Wrong Turn 1 หวีดเขมือบคน ภาค 1 (2003)",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/08/1431.jpg",
+     "url": "https://ezycdn.stream/playlist-8qh91o8k-master.m3u8",
+     "referer": "https://hd.movie285.com/"
+    }
+   ]
+  },
+
   {
    "name": "Your Fault คำขอโทษ",
    "info": "หนังฝรั่ง พากย์ไทย",
